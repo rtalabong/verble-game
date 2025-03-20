@@ -1,6 +1,10 @@
 # Verble
 
-I built this game thanks to the tutorial by [Kenny Yip](https://www.youtube.com/watch?v=ckjRsPaWHX8&t=2026s&ab_channel=KennyYipCoding), which allows setting only one word as the correct answer.
+Welcome to [Verble](https://rtalabong.github.io/verble-game/)
+
+I built this game thanks to the tutorial by [Kenny Yip](https://www.youtube.com/watch?v=ckjRsPaWHX8&t=2026s&ab_channel=KennyYipCoding).
+
+I expanded beyond the tutorial, as it only teaches setting one word as the correct answer.
 
 ## Word Database
 
