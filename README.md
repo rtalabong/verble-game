@@ -1,6 +1,6 @@
 # Verble
 
-Welcome to [Verble](https://rtalabong.github.io/verble-game/)
+Welcome to [Verble](https://rtalabong.github.io/verble-game/), a wordle for verbs. The game involves the player guessing a five-letter verb from a preset database.
 
 I built this game thanks to the tutorial by [Kenny Yip](https://www.youtube.com/watch?v=ckjRsPaWHX8&t=2026s&ab_channel=KennyYipCoding).
 
