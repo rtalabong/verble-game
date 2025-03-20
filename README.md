@@ -14,9 +14,11 @@ I also attempted to add a definition feature, which pops up with a one-line defi
 
 ## Issues to Fix
 
-1. The game still allows input of non-words.
-2. If a letter is present but not in the correct position, it highlights it yellow—even for repeated letters.
-3. ChatGPT still generates definition for the noun version of the words.
+1. Use for mobile
+2. The game still allows input of non-words.
+3. If a letter is present but not in the correct position, it highlights it yellow—even for repeated letters.
+4. ChatGPT still generates definition for the noun version of the words.
+
 
 ## Nice-to-Haves
 
