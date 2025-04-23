@@ -14,7 +14,7 @@ app.post("/getDefinition", async (req, res) => {
         const response = await fetch("https://api.openai.com/v1/completions", {
             method: "POST",
             headers: {
-                "Content-Type": "application/json",
+                "Content-Type": "pplication/json",
                 "Authorization": `Bearer ${OPENAI_API_KEY}`
             },
             body: JSON.stringify({
